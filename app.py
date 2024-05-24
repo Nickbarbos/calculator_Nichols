@@ -7,6 +7,7 @@ def add(num1, num2):
 def subtract(num1, num2):
 	return num1 - num2
 <<<<<<< HEAD
+<<<<<<< HEAD
 	print("Please select operation -\n" \
 		"1. Add\n" \
 		"2. Subtract\n" \
@@ -24,3 +25,11 @@ number_2 = int(input("Enter second number: "))
 def multiply(num1, num2):
 	return num1 * num2
 >>>>>>> feature_multiplicação
+=======
+	# Function to multiply two numbers
+def multiply(num1, num2):
+	return num1 * num2
+	# Function to divide two numbers
+def divide(num1, num2):
+	return num1 / num2
+>>>>>>> feature_divisão
